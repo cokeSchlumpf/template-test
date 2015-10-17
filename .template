@@ -20,7 +20,7 @@
     },
     {
       "name": "foo",
-      "bar": "bar"
+      "value": "bar"
     }
   ]
 }
