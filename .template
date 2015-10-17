@@ -1,0 +1,22 @@
+{
+  "username": "cokeSchlumpf",
+  "repository": "template-test",
+  "ref": "refs/head/master",
+  "rootPath": "/",
+  "files": "*.js, package.json, pom.xml",
+  "encoding": "UTF-8",
+  "variables": [
+    {
+      "name": "project-name",
+      "value": "your-project-name"
+    },
+    {
+      "name": "version",
+      "value": "1.0"
+    },
+    {
+      "name": "foo",
+      "bar": "bar"
+    }
+  ]
+}
