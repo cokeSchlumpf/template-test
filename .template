@@ -3,7 +3,11 @@
   "repository": "template-test",
   "ref": "refs/head/master",
   "rootPath": "/",
-  "files": "*.js, package.json, pom.xml",
+  "files": [
+    "*.js",
+    "package.json",
+    "pom.xml"
+  ],
   "encoding": "UTF-8",
   "variables": [
     {
